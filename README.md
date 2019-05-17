@@ -1,7 +1,8 @@
-# ChatBox made by React FireBase
-for start project 
-    yarn run init generate .env
-for start un project  in terminal 
+# ChatBox ~ React FireBase
+
+    yarn run init => generate .env
+    yarn start => start a project  
+
 **BDD - Firebase**
 #### Homepage
 <img src='./screen/homepage.png'/> 
