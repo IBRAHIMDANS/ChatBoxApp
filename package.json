@@ -3,16 +3,16 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "dotenv": "^6.2.0",
-    "firebase": "^5.5.1",
-    "prop-types": "^15.6.2",
-    "re-base": "^4.0.0",
-    "react": "^16.5.2",
-    "react-dom": "^16.5.2",
-    "react-router-dom": "^4.3.1",
+    "dotenv": "6.2.0",
+    "firebase": "5.11.1",
+    "prop-types": "15.7.2",
+    "re-base": "4.0.0",
+    "react": "16.8.6",
+    "react-dom": "16.8.6",
+    "react-router-dom": "4.3.1",
     "react-scripts": "1.1.5",
-    "react-transition-group": "^2.5.0",
-    "shx": "^0.3.2"
+    "react-transition-group": "2.9.0",
+    "shx": "0.3.2"
   },
   "scripts": {
     "init": "shx cp .env.dist .env",
