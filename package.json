@@ -10,7 +10,7 @@
     "react": "16.8.6",
     "react-dom": "16.8.6",
     "react-router-dom": "4.3.1",
-    "react-scripts": "1.1.5",
+    "react-scripts": "4.0.3",
     "react-transition-group": "2.9.0",
     "shx": "0.3.2"
   },
